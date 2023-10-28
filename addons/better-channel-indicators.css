@@ -2,8 +2,8 @@
 
 :root {
 	/* better channel indicators variables */
-	--unread-badge: rgba(255, 255, 255, 0.6);
-	--unread-bg: rgba(255, 255, 255, 0);
+	--unread-badge: rgba(166, 216, 253, 0.6);
+	--unread-bg: rgba(166, 216, 253, 0);
 	--selected-badge: var(--dracula-accent);
 	--selected-bg: var(--dracula-accent-alpha);
 	--selected-bg-hover: var(--dracula-accent-alpha-alt);
