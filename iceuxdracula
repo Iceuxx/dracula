@@ -1,11 +1,9 @@
 .theme-dark,
 :root {
 	/* theme color palette */
-	--dracula-primary: #302f2f;
+	--dracula-primary: #212121;
 	--dracula-secondary: #302f2f;
-	--dracula-secondary-alpha: rgba(36, 38, 49, 0.9);
 	--dracula-tertiary: #302f2f;
-	--dracula-tertiary-alpha: rgba(32, 34, 44, 0.6);
 	--dracula-primary-light: #302f2f;
 	--dracula-accent: #a6d8fd;
 	--dracula-accent-alpha: rgba(166, 216, 253, 0.2);
